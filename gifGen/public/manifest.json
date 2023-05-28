@@ -1,0 +1,14 @@
+{
+    "name" : "Gif Generator",
+    "version" : "0.1",
+    "manifest_version" : 3,
+    "action" :{
+        "default_title" : "Gif Generator",
+        "default_popup" : "index.html",
+        "default_icon" : {
+            "16" : "favicon16.png",
+            "128" : "favicon192.png"
+        }
+    },
+    "permissions" : ["activeTab"]
+}
